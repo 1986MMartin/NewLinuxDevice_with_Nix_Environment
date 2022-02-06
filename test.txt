@@ -1,2 +1,0 @@
-new File for my Git Reposetory.
-Hier ist weiterer Text, mal sehen ob dieser in Richtung GitHub geladen werden kann.
