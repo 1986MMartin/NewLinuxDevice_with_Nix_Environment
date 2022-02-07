@@ -20,6 +20,15 @@ nix-env -iA \
 	nixpkgs.gcc \
 	nixpkgs.direnv
 
+# install git variables
+git config --global user.name "Markus Martin"
+git config --global user.email "1986mmartin@gmail.com"
+git config --global core.editor "vim"
+git clone https://github.com/1986MMartin/coding-sections-markus $HOME/coding/coding-sections-markus
+git clone https://github.com/1986MMartin/UdemyDataScience $HOME/coding/UdemyDataScience/
+git clone https://github.com/1986MMartin/NewLinuxDevice_with_Nix_Environment.git $HOME/coding/NewLinuxDevice_with_Nix_Environment/
+
+
 # stow dotfiles
 stow git
 stow nvim
