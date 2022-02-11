@@ -11,3 +11,5 @@
 -----> https://www.youtube.com/watch?v=zn_BT56UoKs&t=261s
 
 -----> https://www.youtube.com/watch?v=FHuwzbpTTo0&t=1142s
+
+3.) Eintrag Parameter von NVIM
