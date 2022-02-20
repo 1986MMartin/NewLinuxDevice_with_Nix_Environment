@@ -13,3 +13,4 @@
 -----> https://www.youtube.com/watch?v=FHuwzbpTTo0&t=1142s
 
 3.) Eintrag Parameter von NVIM
+4.) Neuer Eintrag via Ubuntu
